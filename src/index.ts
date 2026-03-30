@@ -2,4 +2,4 @@ import { registerRoot } from "remotion";
 // import { RemotionRoot } from "./Root";
 import "../public/js/main.js"
 
-registerRoot(RemotionRoot);
+// registerRoot(RemotionRoot);
